@@ -26,9 +26,11 @@ Harvard Business Review.
 
 Jeff Sutherland. Origins of Scrum. [https://www.scruminc.com/origins-of-scrum/](https://www.scruminc.com/origins-of-scrum/)
 
-Vague citations in the first four minutes: Bell Labs research
-Brendan G. Cain and James O. Coplien.  A Role-Based Empirical Process Modeling
-Environment. In Proceedings of Second 
+Bell Labs research
+Brendan G. Cain and James O. Coplien.  
+
+### A Role-Based Empirical Process Modeling Environment. 
+In Proceedings of Second 
 International Conference on the Software Process (ICSP-2), pages 125-133,
 February 1993. Los Alamitos, California, IEEE 
 Computer Press.
@@ -37,100 +39,107 @@ Neil B. Harrison and James O. Coplien.  Patterns of productive software
 organizations. Bell Labs Technical Journal, 1(1):138-
 145, Summer (September) 1996.
 
-James Coplien and Neil Harrison. Organizational Patterns of Agile Software
+#### Organizational Patterns of Agile Software
 Development. Upper Saddle River, NJ: Prentice-
-Hall/Pearson, July 2004.
+Hall/Pearson, July 2004. 
+James Coplien and Neil Harrison. 
 
-O.-J. Dahl, B. Myhrhaug, K. Nygaard: SIMULA 67 Common Base Language. Norwegian
-Computing Center, 1968.
+#### SIMULA 67 Common Base Language. Norwegian
+Computing Center, 1968. O.-J. Dahl, B. Myhrhaug, K. Nygaard:
 
-James O. Coplien.  Borland Software Craftsmanship: A New Look at Process,
+#### Borland Software Craftsmanship: A New Look at Process,
 Quality and Productivity. In Proceedings of the 
-Fifth Borland International Conference, Orlando, Florida, June 1994.
+Fifth Borland International Conference, Orlando, Florida, June 1994. James O. Coplien.  
 
-Mike Beedle and Ken Schwaber. Agile Software Development with Scrum. Pearson,
-October, 2001.
+### Agile Software Development with Scrum. Pearson,
+October, 2001. Mike Beedle and Ken Schwaber. 
 
-Ken Schwaber. Software in 30 Days: How Agile Managers Beat the Odds, Delight
+#### Software in 30 Days: How Agile Managers Beat the Odds, Delight
 Their Customers, and Leave Competitors in the 
-Dust. Wiley, 2012. 
+Dust. Wiley, 2012. Ken Schwaber. 
 
 Ikujiro Nonaka. The Knowledge Creating Company. Oxford University Press, 1995.
 
 Ikujiro Nonaka and R. Toyama. Managing Flow: A Process Theory of the
 Knowledge-Based Firm. Palgrave Macmillan, 2008.
 
-James O. Coplien. A Development Process Generative Pattern Language. In James O.
+#### A Development Process Generative Pattern Language. In James O.
 Coplien and Douglas C. Schmidt, editors, 
 Pattern Languages of Program Design, chapter 13, 183-237. Addison-Wesley,
-Reading, MA, 1995.
+Reading, MA, 1995. James O. Coplien.
 
-Kent Beck. A Laboratory for Teaching Object-Oriented Thinking. Proceedings of
+#### A Laboratory for Teaching Object-Oriented Thinking. Proceedings of
 OOPSLA ’89, SIGPLAN Notices 24(10), October, 
-1989.
+1989. Kent Beck. 
 
-James Coplien. Architecture and the Child Within. Games versus Play,
+#### Architecture and the Child Within. Games versus Play,
 gamification considered harmful, etc. 
+James Coplien. 
 [https://www.slideshare.net/Avisi_ASAS/keynote-asas-2014-jim-coplien-the-child-within](https://www.slideshare.net/Avisi_ASAS/keynote-asas-2014-jim-coplien-the-child-within)
 
-Objects as mental models. Alan C. Kay. A Personal Computer for Children of All
+#### Objects as mental models.
+
+ Alan C. Kay. A Personal Computer for Children of All
 Ages. Original between 1968 and 1982. New York: 
 ACM Press, Proceedings of the ACM Annual Conference - Volume 1, 1972,
 http://doi.acm.org/10.1145/800193.1971922.
 
-Jef Raskin. The Humane Interface: New Directions for Designing Interactive
-Systems. Addison-Wesley: 2000.
+#### The Humane Interface: New Directions for Designing Interactive
+Systems. Addison-Wesley: 2000. Jef Raskin.
 
-Kent Beck.  A Laboratory for Teaching Object-Oriented Thinking. Proceedings of
+#### A Laboratory for Teaching Object-Oriented Thinking. Proceedings of
 OOPSLA ’89, SIGPLAN Notices 24(10), October, 
-1989.
+1989. Kent Beck. 
 
-Siniaalto and Abrahamsson, Comparative Case Study on the Effect of Test-Driven
+### Comparative Case Study on the Effect of Test-Driven
 Development on Program Design and Test 
-Coverage, ESEM 2007
+Coverage, ESEM 2007 Siniaalto and Abrahamsson,
 
-Siniaalto and Abrahamsson, Does Test-Driven Development Improve the Program
-Code? Alarming results from a Comparative Case 
-Study. Proceedings of Cee-Set 2007, 10 - 12 October, 2007, Poznan, Poland.
+#### Does Test-Driven Development Improve the Program Code? Alarming results from a Comparative Case  Study. 
+Siniaalto and Abrahamsson,  Proceedings of Cee-Set 2007, 10 - 12 October, 2007, Poznan, Poland.
 
 On unit testing: Why Most Unit Testing is Waste.
 https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
 
-Segue. https://rbcs-us.com/documents/Segue.pdf
+#### Segue. 
+[https://rbcs-us.com/documents/Segue.pdf](https://rbcs-us.com/documents/Segue.pdf)
 
-Toyota automation:
+#### Toyota automation:
 https://qz.com/196200/toyota-is-becoming-more-efficient-by-replacing-robots-with-humans/,
 
 https://www.fastcompany.com/40461624/how-toyota-is-putting-humans-first-in-an-era-of-increasing-automation
 
-Research on DCI by Héctor Valdecantos. Héctor Valdecantos, Katy Tarrit, Mehdi
+#### Research on DCI by Héctor Valdecantos. 
+Héctor Valdecantos, Katy Tarrit, Mehdi
 Mirakhorli , and James O. Coplien. An Empirical 
-Study on Code Comprehension: Data Context Interaction Compared to Classical
-Object Oriented. Proceedings of ICPC 2017, IEEE 
-Press, May 2017.
 
-Long deliberation. Jeffrey K. Liker. The Toyota Way. McGraw-Hill, 2004, Chapter
-19.
+#### Study on Code Comprehension: Data Context Interaction Compared to Classical Object Oriented. 
+Proceedings of ICPC 2017, IEEE  Press, May 2017.
 
-Last Responsible Moment. Glenn Ballard. Positive versus negative iteration in
+#### Long deliberation. 
+Jeffrey K. Liker. The Toyota Way. McGraw-Hill, 2004, Chapter 19.
+
+#### Last Responsible Moment. Glenn Ballard. Positive versus negative iteration in
 design. In Proceedings of the 8th Annual Conference on the International Group
 for Lean Construction (IGLC-8). 2000, June.
 
-The Quality without a Name. Christopher Alexander. The Timeless Way of Building.
+#### The Quality without a Name. Christopher Alexander. The Timeless Way of Building.
 Oxford University Press, 1979.
 
-Mob Programming. https://en.wikipedia.org/wiki/Mob_programming
+####  Mob Programming. 
+[https://en.wikipedia.org/wiki/Mob_programming](https://en.wikipedia.org/wiki/Mob_programming)
 
-Organizational Learning. Joop Swieringa and Andre Wierdsma. Becoming a Learning
-Organization: Beyond the Learning Curve. Addison-Wesley, 1992.
+####  Organizational Learning. Joop Swieringa and Andre Wierdsma. Becoming a Learning
+####  Organization: Beyond the Learning Curve. Addison-Wesley, 1992.
 
-Stable Teams: 
+#### Stable Teams: 
 https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams
 
-The Ten Bulls.
-https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/preface
-
-The Design Movement:
+#### The Ten Bulls.
+[https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/preface
+](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/preface
+)
+#### The Design Movement:
 John Thackara. Design After Modernism: Beyond the Object. New York: Thames and
 Hudson, Inc., 1988.
 Nigel Cross, ed. Developments in design methodology. Chichester, UK: Wiley,
