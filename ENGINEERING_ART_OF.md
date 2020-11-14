@@ -5,6 +5,39 @@ We.
 Sell.
 UseCases.
 - <insert authority figure here>
+ 
+   * [Engineering Compendium](#engineering-compendium)
+- [Certification is useless](#certification-is-useless)
+  * [Motivated teams:](#motivated-teams-)
+  * [Happiness Metric.](#happiness-metric)
+- [A Role-Based Empirical Process Modeling Environment.](#a-role-based-empirical-process-modeling-environment)
+  * [Organizational Patterns of Agile Software](#organizational-patterns-of-agile-software)
+  * [SIMULA 67 Common Base Language. Norwegian](#simula-67-common-base-language-norwegian)
+  * [Borland Software Craftsmanship: A New Look at Process,](#borland-software-craftsmanship--a-new-look-at-process-)
+- [Agile Software Development with Scrum. Pearson,](#agile-software-development-with-scrum-pearson-)
+  * [Software in 30 Days: How Agile Managers Beat the Odds, Delight](#software-in-30-days--how-agile-managers-beat-the-odds--delight)
+  * [A Development Process Generative Pattern Language. In James O.](#a-development-process-generative-pattern-language-in-james-o)
+  * [A Laboratory for Teaching Object-Oriented Thinking. Proceedings of](#a-laboratory-for-teaching-object-oriented-thinking-proceedings-of)
+  * [Architecture and the Child Within. Games versus Play,](#architecture-and-the-child-within-games-versus-play-)
+  * [Objects as mental models.](#objects-as-mental-models)
+  * [The Humane Interface: New Directions for Designing Interactive](#the-humane-interface--new-directions-for-designing-interactive)
+  * [A Laboratory for Teaching Object-Oriented Thinking. Proceedings of](#a-laboratory-for-teaching-object-oriented-thinking-proceedings-of-1)
+- [Comparative Case Study on the Effect of Test-Driven](#comparative-case-study-on-the-effect-of-test-driven)
+  * [Does Test-Driven Development Improve the Program Code? Alarming results from a Comparative Case  Study.](#does-test-driven-development-improve-the-program-code--alarming-results-from-a-comparative-case--study)
+  * [Segue.](#segue)
+  * [Toyota automation:](#toyota-automation-)
+  * [Research on DCI by Héctor Valdecantos.](#research-on-dci-by-h-ctor-valdecantos)
+  * [Study on Code Comprehension: Data Context Interaction Compared to Classical Object Oriented.](#study-on-code-comprehension--data-context-interaction-compared-to-classical-object-oriented)
+  * [Long deliberation.](#long-deliberation)
+  * [Last Responsible Moment. Glenn Ballard. Positive versus negative iteration in](#last-responsible-moment-glenn-ballard-positive-versus-negative-iteration-in)
+  * [The Quality without a Name. Christopher Alexander. The Timeless Way of Building.](#the-quality-without-a-name-christopher-alexander-the-timeless-way-of-building)
+  * [Mob Programming.](#mob-programming)
+  * [Organizational Learning. Joop Swieringa and Andre Wierdsma. Becoming a Learning](#organizational-learning-joop-swieringa-and-andre-wierdsma-becoming-a-learning)
+  * [Organization: Beyond the Learning Curve. Addison-Wesley, 1992.](#organization--beyond-the-learning-curve-addison-wesley--1992)
+  * [Stable Teams:](#stable-teams-)
+  * [The Ten Bulls.](#the-ten-bulls)
+  * [The Design Movement:](#the-design-movement-)
+
 
 > The Interface IS the Product
 
