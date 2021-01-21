@@ -1,6 +1,4 @@
-
 #### Engineering Compendium
-
 
 - [Engineering Compendium](#engineering-compendium)
 - [Certification is useless](#certification-is-useless)
@@ -173,8 +171,8 @@ https://sites.google.com/a/scrumplop.org/published-patterns/product-organization
 
 #### The Ten Bulls.
 [https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/preface
-](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/preface
-)
+](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/preface)
+
 #### The Design Movement:
 John Thackara. Design After Modernism: Beyond the Object. New York: Thames and
 Hudson, Inc., 1988.
