@@ -1,5 +1,6 @@
-
 ## Fundamentals
+
+> forgot where I got this from
 
 Keep it simple, stupid. You ain't gonna need it.
 
