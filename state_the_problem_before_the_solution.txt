@@ -1,0 +1,40 @@
+/** source: http://lamport.azurewebsites.net/pubs/state-the-problem.pdf */
+
+State the Problem Before Describing the Solution
+Leslie Lamport
+Computer Science Laboratory
+SRI International
+Menlo Park CA 9402 5
+
+
+After several years of writing papers in computer science, 
+I discovered the basic expository rule embodied in the title of
+this note . As obvious as this rule may seem, there are fields in
+which it is seldom observed . (Computer networking is one
+example .) A typical paper in such a field is organized as follows :
+
+(1) a brief informal statement of the problem ;
+(2) the solution ;
+(3) a statement and proof of the precise correctness properties satisfied by the solution.
+
+In order to abide by the rule, the following organization should instead be used :
+(1) a brief informal statement of the problem ;
+(2) the precise correctness conditions required of a solution ;
+(3) the solution ;
+(4) a proof that the solution satisfies the requisite conditions.
+Although it may not be obvious at first glance, there is a profound 
+difference between these two approaches . In the first, the precise 
+correctness conditions can be (and usually are)
+stated in terms of the solution itself . Some results are proved
+about the solution, but it is often not clear exactly what problem is
+being solved . This makes the comparison of two different solutions 
+rather difficult . With the second approach , one is forced to specify
+the precise problem to be solved independently of the method used in
+the solution . This can be a surprisingly difficult and enlightening task.
+It has on several occasions led me to discover that a "correct" algorithm 
+did not really accomplish what I wanted it to . I strongly urge everyone
+to observe the rule .
+
+(I am ignoring as unworthy of consideration the disturbingly
+large number of papers that never even attempt a precis e
+statement of what problem they are solving.)
