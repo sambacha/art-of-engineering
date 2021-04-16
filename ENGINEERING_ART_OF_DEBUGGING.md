@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Debugging stories](#debugging-stories)
+- [Non Fiction stories](#non-fiction-stories)
+- [Fictional stories](#fictional-stories)
+- [Contributors](#contributors)
+- [TODOs:](#todos)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Debugging stories
 
 [source: danluu](https://raw.githubusercontent.com/danluu/debugging-stories/master/README.md)

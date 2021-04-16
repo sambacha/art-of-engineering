@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [APL](#apl)
+  - [Zero Developer Access to Production](#zero-developer-access-to-production)
+  - [Organizational Silos](#organizational-silos)
+  - [Security](#security)
+  - [Complexity](#complexity)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## APL 
 
 An overview into the value system that kdb/q has inherited from APL, see Aaron Hsu's video, "Design Patterns vs Anti pattern in APL by Aaron W Hsu at FnConf17".

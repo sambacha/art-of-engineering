@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [What is a finite state machine?](#what-is-a-finite-state-machine)
+- [What about state that is not finite?](#what-about-state-that-is-not-finite)
+- [How does Redux compare to a finite state machine?](#how-does-redux-compare-to-a-finite-state-machine)
+- [Difference: finite & extended states](#difference-finite--extended-states)
+- [Difference: events vs. actions](#difference-events-vs-actions)
+- [Difference: explicit transitions](#difference-explicit-transitions)
+- [Difference: declarative effects](#difference-declarative-effects)
+- [Difference: sync vs. async data flow](#difference-sync-vs-async-data-flow)
+- [Difference: local vs. global state](#difference-local-vs-global-state)
+- [Acting differently](#acting-differently)
+- [Multi-Redux?](#multi-redux)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: Redux is half of a pattern.
 description: Redux and State Machines

@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Agile Viz. & Graphical representation of existing code](#agile-viz--graphical-representation-of-existing-code)
+- [tools](#tools)
+  - [Resources](#resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### Agile Viz. & Graphical representation of existing code
 Visualizing cross-cutting concerns
 Visualize dependency

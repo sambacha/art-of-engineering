@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [The purpose of software project management](#the-purpose-of-software-project-management)
+  - [Two complimentary goals](#two-complimentary-goals)
+  - [Estimating value and effort](#estimating-value-and-effort)
+  - [Pivotal Tracker](#pivotal-tracker)
+  - [Breaking down tasks](#breaking-down-tasks)
+  - [Conclusion](#conclusion)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## The purpose of software project management
 
