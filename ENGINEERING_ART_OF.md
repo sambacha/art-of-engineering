@@ -69,6 +69,7 @@
 - [Stable Teams:](#stable-teams-)
 - [The Ten Bulls.](#the-ten-bulls)
 - [The Design Movement:](#the-design-movement-)
+- [Differential Testing For Software](https://www.cs.swarthmore.edu/~bylvisa1/cs97/f13/Papers/DifferentialTestingForSoftware.pdf)
 
 
 We.
@@ -222,3 +223,7 @@ Jeff Sutherland. The Scrum Handbook.
 
 Daniel Pink. Drive: The amazing truth about what motivates us. New York:
 Riverhead Books, 2011.
+ 
+ Differential comparison of two compilers, or of a compiler with its own output when optimizations are turned off, usually requires a much more restricted form of the program, which limits the bugs you find, since programs must be compiled and executed to compare results.
+ [reference from trailofbits, https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)
+ - [Differential Testing For Software](https://www.cs.swarthmore.edu/~bylvisa1/cs97/f13/Papers/DifferentialTestingForSoftware.pdf)
