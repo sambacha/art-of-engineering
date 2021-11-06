@@ -1,0 +1,6 @@
+# image formats
+*.png diff=exif
+*.jpg diff=exif
+*.svg diff=exif
+*.md     text
+
