@@ -2,6 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Debugging stories](#debugging-stories)
 - [Non Fiction stories](#non-fiction-stories)
 - [Fictional stories](#fictional-stories)
@@ -14,7 +15,8 @@
 
 [source: danluu](https://raw.githubusercontent.com/danluu/debugging-stories/master/README.md)
 
-Debugging stories are fun! This is a collection of links to various debugging stories.
+Debugging stories are fun! This is a collection of links to various
+debugging stories.
 
 ## Non Fiction stories
 
@@ -40,7 +42,10 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Debugging an evil Go runtime bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 
-[Debugging Insights](http://debuggingrules.com/?page_id=46) (collection of stories on separate pages, submitted to Dave Agans, the author of "Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems")
+[Debugging Insights](http://debuggingrules.com/?page_id=46) (collection
+of stories on separate pages, submitted to Dave Agans, the author of
+"Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive
+Software and Hardware Problems")
 
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
@@ -78,7 +83,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Linux kernel CPU contention](http://notes.secretsauce.net/notes/2015/09/05_a-kernel-debugging-story.html)
 
-[Login only works when sitting down (and other stories)](https://books.google.ca/books?id=kse_7qbWbjsC&lpg=PP1&pg=PA56). From Jon Bentley's _Programming Pearls_, section 5.10
+[Login only works when sitting down (and other stories)](https://books.google.ca/books?id=kse_7qbWbjsC&lpg=PP1&pg=PA56).
+From Jon Bentley's _Programming Pearls_, section 5.10
 
 [Mandrill stops sending messages](https://www.seancassidy.me/sherlock-holmes-debugging.html)
 
@@ -88,7 +94,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Mouse won't move while processes are dying](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
 
-[MS Money crashes](https://devblogs.microsoft.com/oldnewthing/?p=6103). Includes reverse engineered binary patch fix!
+[MS Money crashes](https://devblogs.microsoft.com/oldnewthing/?p=6103).
+Includes reverse engineered binary patch fix!
 
 [Multicast to 237.0.0.1 acts craters performance](https://www.outerthoughts.com/2004/10/perfect-multicast-storm/)
 
@@ -98,13 +105,17 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Node.js memory leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
 
-[OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) - "My wife has complained that OpenOffice will never print on Tuesdays" (bug is actually with the [file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619))
+[OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) -
+"My wife has complained that OpenOffice will never print on Tuesdays"
+(bug is actually with the
+[file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619))
 
 [OS crashes on boot if machine was used recently](https://blog.valerieaurora.org/2013/12/17/heres-my-favorite-operating-systems-war-story-whats-yours/)
 
 [PDP-11 crashes only when live cattle are being shipped from northern Ukraine and western Russia](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
-[Perl can't read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-tmpdir/) [(separate analysis of the same issue here)](https://blog.plover.com/tech/tmpdir.html)
+[Perl can't read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-tmpdir/)
+[(separate analysis of the same issue here)](https://blog.plover.com/tech/tmpdir.html)
 
 [Polish S doesn't appear on medium](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
@@ -130,8 +141,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Switch crashes machine despite not being connected](http://www.catb.org/jargon/html/magic-story.html)
 
-[The Debug heap that created bugs
-](http://lectem.github.io/windows/heap/appverifier/detours/2020/01/02/The-debug-heap-that-created-bugs.html)
+[The Debug heap that created bugs ](http://lectem.github.io/windows/heap/appverifier/detours/2020/01/02/The-debug-heap-that-created-bugs.html)
 
 [Tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
@@ -153,46 +163,47 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 ## Contributors
 
-* Alexandros Tasos
-* Arthur Axel fREW Schmidt
-* André Luiz
-* Bill Smith
-* Brad Parker
-* Bruce Dawson
-* bussiere
-* crazymerlyn
-* Dan Luu
-* Dan Nguyen
-* Darek Kay
-* Dima Kogan
-* Dimitry (unknownexception)
-* Florent Viel
-* Howard Mao
-* Jakub Kądziołka
-* Jani Patokallio
-* Jessie Weinstein
-* José Manuel Díez
-* Jouke Waleson
-* Jyrki Vesterinen
-* Kartik Agaram
-* Kevin D. Clark
-* Kirtan Gajjar
-* Louis Vela
-* Matteo Castellini
-* Mark Jason Dominus
-* michaelx386
-* Nan Xiao
-* Nathan Isom
-* Nikola Brežnjak
-* Pietro Menna
-* Rafik Draoui
-* Ramon Fried
-* Sean Cassidy
-* Vladimír Kotal
-* James Porter
+- Alexandros Tasos
+- Arthur Axel fREW Schmidt
+- André Luiz
+- Bill Smith
+- Brad Parker
+- Bruce Dawson
+- bussiere
+- crazymerlyn
+- Dan Luu
+- Dan Nguyen
+- Darek Kay
+- Dima Kogan
+- Dimitry (unknownexception)
+- Florent Viel
+- Howard Mao
+- Jakub Kądziołka
+- Jani Patokallio
+- Jessie Weinstein
+- José Manuel Díez
+- Jouke Waleson
+- Jyrki Vesterinen
+- Kartik Agaram
+- Kevin D. Clark
+- Kirtan Gajjar
+- Louis Vela
+- Matteo Castellini
+- Mark Jason Dominus
+- michaelx386
+- Nan Xiao
+- Nathan Isom
+- Nikola Brežnjak
+- Pietro Menna
+- Rafik Draoui
+- Ramon Fried
+- Sean Cassidy
+- Vladimír Kotal
+- James Porter
 
 ## TODOs:
 
-* Improve formatting.
+- Improve formatting.
 
-* Write up some interesting bugs: 40 hour hang, hardware bug caused by copying behavior of Intel engineering sample found on ebay, etc.
+- Write up some interesting bugs: 40 hour hang, hardware bug caused by
+  copying behavior of Intel engineering sample found on ebay, etc.

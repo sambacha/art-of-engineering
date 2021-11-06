@@ -1,0 +1,22 @@
+{
+  "name": "art-of-engineering",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+"format": "npx prettier --config .prettierrc --write '**/*.md'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/art-of-engineering.git"
+  },
+  "keywords": ["design", "best practices", "development", "engineering", "art of"],
+  "author": "The Contributors",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sambacha/art-of-engineering/issues"
+  },
+  "homepage": "https://github.com/sambacha/art-of-engineering#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
