@@ -4,77 +4,108 @@
 
 # Polemic of Engineering
 
-
 💊 🌲  📚
 
-## 
-
-- [Polemic of Engineering](#polemic-of-engineering)
-  * [Table of Contents](#table-of-contents)
-      - [Engineering Compendium](#engineering-compendium)
-  * [Programming Language Theory](#programming-language-theory)
-  * [Type Theory](#type-theory)
-    + [Books](#books)
-    + [Papers](#papers)
-    + [Videos](#videos)
-    + [Subtopics](#subtopics)
-  * [Programming Languages](#programming-languages)
-    + [Books](#books-1)
-    + [Papers](#papers-1)
-  * [Compiler Construction](#compiler-construction)
-    + [Books](#books-2)
-    + [Papers](#papers-2)
-    + [Videos](#videos-1)
-  * [Runtime systems](#runtime-systems)
-    + [Books](#books-3)
-    + [Papers](#papers-3)
-  * [Functional Programming](#functional-programming)
-    + [Books](#books-4)
-      - [Papers](#papers-4)
-    + [Videos](#videos-2)
-    + [Category Theory](#category-theory)
-      - [Books](#books-5)
-      - [Journals](#journals)
-      - [Subtopics](#subtopics-1)
-    + [Mathematics](#mathematics)
-      - [Mathematical Literacy/Thinking](#mathematical-literacy-thinking)
-      - [Algebra](#algebra)
-    + [Other collections](#other-collections)
-      - [Certification is useless](#certification-is-useless)
-      - [Motivated teams:](#motivated-teams-)
-      - [Happiness Metric.](#happiness-metric)
-      - [A Role-Based Empirical Process Modeling Environment.](#a-role-based-empirical-process-modeling-environment)
-      - [Organizational Patterns of Agile Software](#organizational-patterns-of-agile-software)
-      - [SIMULA 67 Common Base Language. Norwegian](#simula-67-common-base-language-norwegian)
-      - [Borland Software Craftsmanship: A New Look at Process,](#borland-software-craftsmanship--a-new-look-at-process-)
-      - [Agile Software Development with Scrum. Pearson,](#agile-software-development-with-scrum-pearson-)
-      - [Software in 30 Days: How Agile Managers Beat the Odds, Delight](#software-in-30-days--how-agile-managers-beat-the-odds--delight)
-      - [A Development Process Generative Pattern Language. In James O.](#a-development-process-generative-pattern-language-in-james-o)
-      - [A Laboratory for Teaching Object-Oriented Thinking. Proceedings of](#a-laboratory-for-teaching-object-oriented-thinking-proceedings-of)
-      - [Architecture and the Child Within. Games versus Play,](#architecture-and-the-child-within-games-versus-play-)
-      - [Objects as mental models.](#objects-as-mental-models)
-      - [The Humane Interface: New Directions for Designing Interactive](#the-humane-interface--new-directions-for-designing-interactive)
-      - [A Laboratory for Teaching Object-Oriented Thinking. Proceedings of](#a-laboratory-for-teaching-object-oriented-thinking-proceedings-of-1)
-      - [Comparative Case Study on the Effect of Test-Driven](#comparative-case-study-on-the-effect-of-test-driven)
-      - [Does Test-Driven Development Improve the Program Code? Alarming results from a Comparative Case Study.](#does-test-driven-development-improve-the-program-code--alarming-results-from-a-comparative-case-study)
-      - [Segue.](#segue)
-      - [Toyota automation:](#toyota-automation-)
-      - [Research on DCI by Héctor Valdecantos.](#research-on-dci-by-h-ctor-valdecantos)
-      - [Study on Code Comprehension: Data Context Interaction Compared to Classical Object Oriented.](#study-on-code-comprehension--data-context-interaction-compared-to-classical-object-oriented)
-      - [Long deliberation.](#long-deliberation)
-      - [Last Responsible Moment. Glenn Ballard. Positive versus negative iteration in](#last-responsible-moment-glenn-ballard-positive-versus-negative-iteration-in)
-      - [The Quality without a Name. Christopher Alexander. The Timeless Way of Building.](#the-quality-without-a-name-christopher-alexander-the-timeless-way-of-building)
-      - [Mob Programming.](#mob-programming)
-      - [Organizational Learning. Joop Swieringa and Andre Wierdsma. Becoming a Learning](#organizational-learning-joop-swieringa-and-andre-wierdsma-becoming-a-learning)
-      - [Organization: Beyond the Learning Curve. Addison-Wesley, 1992.](#organization--beyond-the-learning-curve-addison-wesley--1992)
-      - [Stable Teams:](#stable-teams-)
-      - [The Ten Bulls.](#the-ten-bulls)
-      - [The Design Movement:](#the-design-movement-)
-  * [About the efficient reduction of lambda terms](#about-the-efficient-reduction-of-lambda-terms)
-  * [The optimal implementation of functional programming languages](#the-optimal-implementation-of-functional-programming-languages)
-
+- [Polemic: Lotus Eaters](#polemic--lotus-eaters)
+  * [Popularization talks](#popularization-talks)
+  * [Invited conference talks](#invited-conference-talks)
+  * [Tutorials](#tutorials)
+    + [Engineering Compendium](#engineering-compendium)
+- [Programming Language Theory](#programming-language-theory)
+    + [💡 Top Tips](#---top-tips)
+- [Type Theory](#type-theory)
+  * [Books](#books)
+  * [Papers](#papers)
+  * [Videos](#videos)
+  * [Subtopics](#subtopics)
+- [Programming Languages](#programming-languages)
+  * [Books](#books-1)
+  * [Papers](#papers-1)
+- [Compiler Construction](#compiler-construction)
+  * [Books](#books-2)
+  * [Papers](#papers-2)
+  * [Videos](#videos-1)
+- [Runtime systems](#runtime-systems)
+  * [Books](#books-3)
+  * [Papers](#papers-3)
+- [Functional Programming](#functional-programming)
+  * [Books](#books-4)
+    + [Papers](#papers-4)
+  * [Videos](#videos-2)
+  * [Category Theory](#category-theory)
+    + [Books](#books-5)
+    + [Journals](#journals)
+    + [Subtopics](#subtopics-1)
+  * [Mathematics](#mathematics)
+    + [Mathematical Literacy/Thinking](#mathematical-literacy-thinking)
+    + [Algebra](#algebra)
+  * [Other collections](#other-collections)
+    + [Certification is useless](#certification-is-useless)
+    + [Motivated teams:](#motivated-teams-)
+    + [Happiness Metric.](#happiness-metric)
+    + [A Role-Based Empirical Process Modeling Environment.](#a-role-based-empirical-process-modeling-environment)
+    + [Organizational Patterns of Agile Software](#organizational-patterns-of-agile-software)
+    + [SIMULA 67 Common Base Language. Norwegian](#simula-67-common-base-language-norwegian)
+    + [Borland Software Craftsmanship: A New Look at Process,](#borland-software-craftsmanship--a-new-look-at-process-)
+    + [Agile Software Development with Scrum. Pearson,](#agile-software-development-with-scrum-pearson-)
+    + [Software in 30 Days: How Agile Managers Beat the Odds, Delight](#software-in-30-days--how-agile-managers-beat-the-odds--delight)
+    + [A Development Process Generative Pattern Language. In James O.](#a-development-process-generative-pattern-language-in-james-o)
+    + [A Laboratory for Teaching Object-Oriented Thinking. Proceedings of](#a-laboratory-for-teaching-object-oriented-thinking-proceedings-of)
+    + [Architecture and the Child Within. Games versus Play,](#architecture-and-the-child-within-games-versus-play-)
+    + [Objects as mental models.](#objects-as-mental-models)
+    + [The Humane Interface: New Directions for Designing Interactive](#the-humane-interface--new-directions-for-designing-interactive)
+    + [A Laboratory for Teaching Object-Oriented Thinking. Proceedings of](#a-laboratory-for-teaching-object-oriented-thinking-proceedings-of-1)
+    + [Comparative Case Study on the Effect of Test-Driven](#comparative-case-study-on-the-effect-of-test-driven)
+    + [Does Test-Driven Development Improve the Program Code? Alarming results from a Comparative Case Study.](#does-test-driven-development-improve-the-program-code--alarming-results-from-a-comparative-case-study)
+    + [Segue.](#segue)
+    + [Toyota automation:](#toyota-automation-)
+    + [Research on DCI by Héctor Valdecantos.](#research-on-dci-by-h-ctor-valdecantos)
+    + [Study on Code Comprehension: Data Context Interaction Compared to Classical Object Oriented.](#study-on-code-comprehension--data-context-interaction-compared-to-classical-object-oriented)
+    + [Long deliberation.](#long-deliberation)
+    + [Last Responsible Moment. Glenn Ballard. Positive versus negative iteration in](#last-responsible-moment-glenn-ballard-positive-versus-negative-iteration-in)
+    + [The Quality without a Name. Christopher Alexander. The Timeless Way of Building.](#the-quality-without-a-name-christopher-alexander-the-timeless-way-of-building)
+    + [Mob Programming.](#mob-programming)
+    + [Organizational Learning. Joop Swieringa and Andre Wierdsma. Becoming a Learning](#organizational-learning-joop-swieringa-and-andre-wierdsma-becoming-a-learning)
+    + [Organization: Beyond the Learning Curve. Addison-Wesley, 1992.](#organization--beyond-the-learning-curve-addison-wesley--1992)
+    + [Stable Teams:](#stable-teams-)
+    + [The Ten Bulls.](#the-ten-bulls)
+    + [The Design Movement:](#the-design-movement-)
+- [About the efficient reduction of lambda terms](#about-the-efficient-reduction-of-lambda-terms)
+- [The optimal implementation of functional programming languages](#the-optimal-implementation-of-functional-programming-languages)
 
 ## Polemic: Lotus Eaters
+
+
+### Popularization talks
+
+-   [In search of software perfection](https://xavierleroy.org/talks/Milner-award-lecture.pdf), Milner award lecture, Royal Society, London, Nov 2016. [Video](https://royalsociety.org/science-events-and-lectures/2016/11/milner-award-lecture/) of the talk.
+-   [On programming languages and their trustworthy implementation](https://xavierleroy.org/talks/van-Wijngaarden-2016.pdf), Van Wijngaarden award ceremony, Amsterdam, Nov 2016.
+-   [Desperately seeking software perfection](http://www.lip6.fr/colloquium/?guest=Leroy), colloquium d'informatique de l'UPMC Sorbonne Universités, Paris, Oct 2015.
+-   [Proof assistants in computer science research](https://xavierleroy.org/talks/IHP-2014.pdf), IHP thematic trimester on Semantics of proofs and certified mathematics, April 2014. [Video](https://www.youtube.com/watch?v=PE4v6rVpX2g) of the talk.
+-   [Du langage à l'action: compilation et typage](https://xavierleroy.org/talks/compilation_typage_College_de_France.pdf) (in French), tutorial lecture given at Collège de France in [Gérard Berry's 2007 course](https://www.college-de-france.fr/site/gerard-berry/course-2007-2008.htm). A [video of the lecture](https://www.college-de-france.fr/site/gerard-berry/Du_langage_a_laction_compil__1.htm) is available.
+
+### Invited conference talks
+
+-   [Formal verification of a code generator for a modeling language: the Velus project](https://xavierleroy.org/talks/velus-VPT-MARS-2018.pdf), invited talk given at the MARS/VPT workshop of [ETAPS 2018](https://www.etaps.org/2018).
+-   [Trust in compilers, code generators, and software verification tools](https://xavierleroy.org/talks/ERTS2018.pdf), invited talk given at [ERTS 2018](https://www.erts2018.org/).
+-   [Formally verifying a compiler: what does it mean, exactly?](https://xavierleroy.org/talks/ICALP2016.pdf), invited talk given at ICALP 2016.
+-   [Formal verification of a static analyzer: abstract interpretation in type theory](https://xavierleroy.org/talks/TYPES-2014.pdf), the 2014 Types Meeting, May 2014.
+-   [Mechanized semantics for compiler verification](https://xavierleroy.org/talks/semantics-aplas-cpp-2012.pdf), invited talk given at APLAS and CPP 2012. [Extended abstract.](https://xavierleroy.org/publi/mechanized-semantics-aplas-cpp-2012.pdf)
+-   [Verified squared: does critical software deserve verified tools?](https://xavierleroy.org/talks/popl2011.pdf), invited talk given at POPL 2011. [Extended abstract.](https://xavierleroy.org/publi/popl11-invited-talk.pdf)
+-   [A formally verified compiler for critical embedded software](https://xavierleroy.org/talks/compcert-lctes08.pdf), invited talk given at the LCTES conference, 2008.
+-   [Formal verification of an optimizing compiler](https://xavierleroy.org/talks/compcert-rta07.pdf), invited talk given at the RTA conference, 2007.
+-   [From Krivine's machine to the Caml implementations](https://xavierleroy.org/talks/zam-kazam05.pdf), invited talk given at the KAZAM workshop, 2005.
+-   [Exploiting type systems and static analyses for smart card security](https://xavierleroy.org/talks/security-cassis04.pdf), invited talk given at CASSIS'04.
+-   [Smart card security from a programming language and static analysis perspective](https://xavierleroy.org/talks/language-security-etaps03.pdf), invited talk given at ETAPS'03.
+-   [Java byte code verification: an overview](https://xavierleroy.org/talks/verif-cav01.ps.gz), invited talk given at CAV'01.
+-   [Objects and classes versus modules in Objective Caml](https://xavierleroy.org/talks/icfp99.ps.gz), invited talk given at ICFP'99.
+
+### Tutorials
+
+-   [Compilation techniques for functional and object-oriented languages](https://xavierleroy.org/talks/tutorial-pldi98.ps.gz), tutorial given at PLDI'98, with accompanying [references](https://xavierleroy.org/talks/references-pldi98.html).
+-   [An introduction to compiling functional languages](https://xavierleroy.org/talks/tutorial-tic98.ps.gz), tutorial given at the Workshop Types in Compilation 98, with accompanying [references](https://xavierleroy.org/talks/references-tic98.ps.gz).
+
+See also: my [lecture notes](https://xavierleroy.org/teaching.html).
 
 > Chapter 5 - Lotus Eaters, Blue Route, *Ulysses*
 
