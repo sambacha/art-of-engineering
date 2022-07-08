@@ -13,6 +13,19 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
+## Principles
+
+- [Zen of Python](http://files.catwell.info/misc/mirror/zen-of-python.txt)
+- [The Arch Way](https://wiki.archlinux.org/index.php/The_Arch_Way)
+- [Unix Philosophies](http://www.faqs.org/docs/artu/ch01s06.html)
+- [Suckless Philosophy](http://suckless.org/philosophy)
+
+- Prototyping
+- Separation of Concerns
+- Services Oriented Architectures (see [Yegge](http://files.catwell.info/misc/mirror/steve-yegge-google-amazon.txt))
+
+
 ### Antipatterns
 
 This is a list of antipatterns.
